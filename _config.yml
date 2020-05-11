@@ -41,6 +41,12 @@ header_pages:
   - community.md
   - contribute.md
 
+# TJN: Not sure if these includes options work
+include:
+  - code/
+  - images/
+  - uploads/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
