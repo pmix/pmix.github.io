@@ -91,6 +91,6 @@ NOTE: Most Linux distributions and OS X install Flex by default (and this is
 sufficient). Other operating systems may provide `lex`, but this **is not**
 sufficient — `flex` is required.
 
-[Preparing Autotools](https://pmix.org/code/building-autotools/)
-[Building the library](https://pmix.org/code/building-the-reference-implementation/)
+[Preparing Autotools](/code/building-autotools.md)
+[Building the library](/code/building-the-reference-implementation.md)
 
