@@ -7,7 +7,7 @@ permalink: /privacy-policy
 Who we are
 ----------
 
-Our website address is: https://pmix.org.
+Our website address is: [https://pmix.org](https://pmix.org).
 
 What personal data we collect and why we collect it
 ---------------------------------------------------
