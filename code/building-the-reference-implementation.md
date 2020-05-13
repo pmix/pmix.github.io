@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Building the Reference Implementation
+---
 
 Debugging vs. Optimized Builds
 ==============================

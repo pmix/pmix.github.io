@@ -31,7 +31,7 @@ purposes:
    application portability. Both client and server libraries are included,
    along with reference examples of client usage and server-side
    integration. A list of supported environments and versions is provided
-   [here](etc) – please check regularly as the list is changing!
+   [here](FIXME:etc) – please check regularly as the list is changing!
 
 The reference implementation targets support for the Linux operating system.
 A reasonable effort is made to support all major, modern Linux
@@ -42,7 +42,7 @@ Mac OSX. Production support for vendor-specific operating systems is
 included as provided by the vendor.
 
 More information on obtaining and building the reference implementation is
-available [here](/code/getting-the-reference-implementation.md).
+available [here](/code/getting-the-reference-implementation).
 
 
 
@@ -57,7 +57,7 @@ an easy way of exploring PMIx capabilities and testing PMIx-based
 applications outside of a PMIx-enabled environment.
 
 More information on obtaining and building the PMIx Reference RTE is
-available [here](/code/getting-the-pmix-reference-server.md)
+available [here](/code/getting-the-pmix-reference-server)
 
 
 

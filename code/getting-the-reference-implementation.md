@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Getting the Reference Implementation
-permalink: /code/getting-the-reference-implementation//
 ---
 
 
@@ -91,6 +90,7 @@ NOTE: Most Linux distributions and OS X install Flex by default (and this is
 sufficient). Other operating systems may provide `lex`, but this **is not**
 sufficient — `flex` is required.
 
-[Preparing Autotools](/code/building-autotools.md)
-[Building the library](/code/building-the-reference-implementation.md)
+[Preparing Autotools](/code/building-autotools)
+
+[Building the library](/code/building-the-reference-implementation)
 

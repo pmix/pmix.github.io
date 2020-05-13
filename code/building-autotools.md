@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Building Autotools
+---
 
 Use of GNU Autoconf, Automake, and Libtool (and m4)
 ===================================================

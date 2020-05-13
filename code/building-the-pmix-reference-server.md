@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Building the PMIx Reference Server
+---
 
 Debugging vs. Optimized Builds
 ==============================
@@ -44,7 +47,7 @@ Building PRRTE
 
 PRRTE requires three external packages (libevent, hwloc, and PMIx) to be
 supplied for it to build and execute. Details on the necessary versions are
-provided [here](/code/getting-the-pmix-reference-server.md).  The
+provided [here](/code/getting-the-pmix-reference-server).  The
 procedure for building a usable configuration is as follows:
 
  - Configure and build libevent, or install it from rpm (most distributions
@@ -71,7 +74,7 @@ procedure for building a usable configuration is as follows:
    ```
 
 
-With all packages built and installed, ensure that you have PRRTE’s install location prepended to your PATH and LD_LIBRARY_PATH. Compile any PMIx-based applications using the PRRTE-provided pcc wrapper compiler. Execution of an application is then done as described [here](/support/how-to/running-apps-under-psrvr.md).
+With all packages built and installed, ensure that you have PRRTE’s install location prepended to your PATH and LD_LIBRARY_PATH. Compile any PMIx-based applications using the PRRTE-provided pcc wrapper compiler. Execution of an application is then done as described [here](/support/how-to/running-apps-under-psrvr).
 
 
 Building Open MPI for use with PRRTE

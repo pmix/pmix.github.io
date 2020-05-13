@@ -1,3 +1,7 @@
+---
+layout: page
+title: Getting the PMIx Reference Server
+---
 
 Getting the Code
 ================
@@ -94,6 +98,7 @@ NOTE: Most Linux distributions and OS X install Flex by default (and this is
 sufficient). Other operating systems may provide `lex`, but this **is not**
 sufficient — `flex` is required.
 
-[Preparing Autotools](/code/building-autotools.md)
-[Building PRRTE](/code/building-the-pmix-reference-server.md)
+[Preparing Autotools](/code/building-autotools)
+
+[Building PRRTE](/code/building-the-pmix-reference-server)
 
