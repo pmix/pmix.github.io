@@ -320,65 +320,41 @@ PMIx RFCs
 ---------
 
 -   v2 RFCs
-    -   [Basic Tool Interaction
-        Mechanism](../home/pmix-standard/basic-tool-interaction-mechanism/index.html)
-    -   [Event
-        Notification](../home/pmix-standard/event-notification/index.html)
-    -   [Modification of
-        PMIx\_Connect/Disconnect](../modification-of-pmix_connect-disconnect/index.html)
-    -   [Flexible Allocation
-        Support](../home/pmix-standard/flexible-allocation-support/index.html)
-    -   [Modify Behavior of
-        PMIx\_Get](../home/pmix-standard/modify-behavior-of-pmix_get/index.html)
-    -   [Extended Tool Interaction
-        Support](../home/pmix-standard/extended-tool-interaction-support/index.html)
-    -   [Refactor Security
-        Support](../home/pmix-standard/refactor-security-support/index.html)
-    -   [Support for Network
-        Interactions](../home/pmix-standard/support-for-network-interactions/index.html)
-    -   [Query Time Remaining in
-        Allocation](../home/pmix-standard/query-time-remaining-in-allocation/index.html)
-    -   [Job Control and
-        Monitoring](../home/pmix-standard/job-control-and-monitoring/index.html)
-    -   [Extend Event
-        Notification](../home/pmix-standard/extend-event-notification/index.html)
-    -   [Expose PMIx Buffer Manipulation
-        Functions](../home/pmix-standard/expose-pmix-buffer-manipulation-functions/index.html)
-    -   [Acquisition of Subsystem Launch
-        Information](acquisition-of-subsystem-launch-information/index.html)
+    -   [Basic Tool Interaction Mechanism](/pmix-standard/RFC/basic-tool-interaction-mechanism)
+    -   [Event Notification](/pmix-standard/RFC/event-notification)
+    -   [Modification of PMIx\_Connect/Disconnect](/pmix-standard/RFC/modification-of-pmix_connect-disconnect)
+    -   [Flexible Allocation Support](/pmix-standard/RFC/flexible-allocation-support)
+    -   [Modify Behavior of PMIx\_Get](/pmix-standard/RFC/modify-behavior-of-pmix_get)
+    -   [Extended Tool Interaction Support](/pmix-standard/RFC/extended-tool-interaction-support)
+    -   [Refactor Security Support](/pmix-standard/RFC/refactor-security-support)
+    -   [Support for Network Interactions](/pmix-standard/RFC/support-for-network-interactions)
+    -   [Query Time Remaining in Allocation](/pmix-standard/RFC/query-time-remaining-in-allocation)
+    -   [Job Control and Monitoring](/pmix-standard/RFC/job-control-and-monitoring)
+    -   [Extend Event Notification](/pmix-standard/RFC/extend-event-notification)
+    -   [Expose PMIx Buffer Manipulation Functions](/pmix-standard/RFC/expose-pmix-buffer-manipulation-functions)
+    -   [Acquisition of Subsystem Launch Information](/pmix-standard/RFC/acquisition-of-subsystem-launch-information)
 -   v3 RFCs
-    -   [Security Credential
-        Transactions](../home/pmix-standard/security-credential-transactions/index.html)
-    -   [Register Cleanup of Files and
-        Directories](../home/pmix-standard/register-cleanup-of-files-and-directories/index.html)
-    -   [IO Forwarding for Tools and Debuggers (provisionally
-        accepted)](io-forwarding-for-tools-and-debuggers/index.html)
-    -   [Environmental Parameter Directives for Applications and
-        Launchers](envar-directives-for-applications-and-launchers/index.html)
-    -   [Coordination Across Programming Models
-        (OpenMP/MPI)](coordination-across-programming-models-openmp-mpi/index.html)
-    -   [Modify the PMIx buffer manipulation
-        APIs](modify-the-pmix-buffer-manipulation-apis/index.html)
-    -   [Extended Debugger Support (in
-        progress)](extended-debugger-support/index.html)
-    -   [DataStore Abstraction Framework (in
-        progress)](datastore-abstraction-framework/index.html)
-    -   [Extension of PMIx Logging
-        Support](extension-of-pmix-logging-support/index.html)
+    -   [Security Credential Transactions](/pmix-standard/RFC/security-credential-transactions)
+    -   [Register Cleanup of Files and Directories](/pmix-standard/RFC/register-cleanup-of-files-and-directories)
+    -   [IO Forwarding for Tools and Debuggers (provisionally accepted)](/pmix-standard/RFC/io-forwarding-for-tools-and-debuggers)
+    -   [Environmental Parameter Directives for Applications and Launchers](/pmix-standard/RFC/envar-directives-for-applications-and-launchers)
+    -   [Coordination Across Programming Models (OpenMP/MPI)](/pmix-standard/RFC/coordination-across-programming-models-openmp-mpi)
+    -   [Modify the PMIx buffer manipulation APIs](/pmix-standard/RFC/modify-the-pmix-buffer-manipulation-apis)
+    -   [Extended Debugger Support (in progress)](/pmix-standard/RFC/extended-debugger-support)
+    -   [DataStore Abstraction Framework (in progress)](/pmix-standard/RFC/datastore-abstraction-framework)
+    -   [Extension of PMIx Logging Support](/pmix-standard/RFC/extension-of-pmix-logging-support)
 -   v4 RFCs
-    -   [PMIx Support for Storage Systems (in
-        progress)](pmix-support-for-storage-systems/index.html)
-    -   [Support for Launching Applications under Debugger Tools (in
-        progress)](support-for-launching-applications-under-debugger-tools/index.html)
-    -   [PMIx Groups (in progress)](/pmix-standard/pmix-groups-2)
+    -   [PMIx Support for Storage Systems (in progress)](/pmix-standard/RFC/pmix-support-for-storage-systems)
+    -   [Support for Launching Applications under Debugger Tools (in progress)](/pmix-standard/RFC/support-for-launching-applications-under-debugger-tools)
+    -   [PMIx Groups (in progress)](/pmix-standard/RFC/pmix-groups-2)
 
 PMIx Presentations
 ------------------
 
+- TODO MARKER
 -   Debuggers, Tools, and Next-Gen Fabric
-    [PDF](../wp-content/uploads/2018/11/PMIxF2F.pdf)
+    [PDF](/uploads/2018/11/PMIxF2F.pdf)
     [PPX](https://www.slideshare.net/rcastain/pmix-debuggers-and-fabric-support)
--   SC18 BoF [PDF](../wp-content/uploads/2018/11/PMIx-BoF-2018.pdf)
+-   SC18 BoF [PDF](/uploads/2018/11/PMIx-BoF-2018.pdf)
     [PPX](https://www.slideshare.net/rcastain/sc18-bof-presentation)
 
-Copyright 2017-2018 PMIx Community
