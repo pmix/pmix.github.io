@@ -351,7 +351,6 @@ PMIx RFCs
 PMIx Presentations
 ------------------
 
-- TODO MARKER
 -   Debuggers, Tools, and Next-Gen Fabric
     [PDF](/uploads/2018/11/PMIxF2F.pdf)
     [PPX](https://www.slideshare.net/rcastain/pmix-debuggers-and-fabric-support)
