@@ -10,15 +10,21 @@ layout: home
 ![PMIx Launch Sequence](/images/LaunchSeqSmall.png "PMIx Launch Sequence")
 
 
-Code
-====
+[Code](/code)
+======
  - PMIx Reference Implementation
  - PMIx Reference RunTime Environment
  - Developer's Telecon
- - [Code](/code)
 
-PMIx Standard
-=============
+[PMIx Standard](/pmix-standard)
+===============
+ - PMIx Standard (document)
+ - PMIx RFCs
+ - Publications/Presentation
 
-Support
-=======
+[Support](/support)
+=========
+ - Support issues
+ - FAQ
+ - "How-to" Guides
+
