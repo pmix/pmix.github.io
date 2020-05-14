@@ -28,7 +28,7 @@ Probably the first thing you should do is join the conversation. The PMIx commun
  - community members meet every Thursday at noon US Pacific for a [telecon](https://recaptcha.open-mpi.org/pmix-recaptcha/) to discuss the Standard and the code libraries.
  - the [mailing list](https://groups.google.com/forum/#!forum/pmix). The list isn’t as heavily used as the other methods, but we do post announcements there and many of us monitor it for questions and comments
 
-Next, you should look through the source code — get a Git clone of whichever area(s) interest you. PMIx is an active development effort — it is usually better to work with the most recent development version of the repository than the last stable release (especially for new projects). Contributions are submitted via pull requests against the target repository on Github. All commits must contain a “Signed-off-by” token in the commit message. This constitutes your agreement with the [PMIx Contributor’s Declaration](https://pmix.org/contributors-declaration/).
+Next, you should look through the source code — get a Git clone of whichever area(s) interest you. PMIx is an active development effort — it is usually better to work with the most recent development version of the repository than the last stable release (especially for new projects). Contributions are submitted via pull requests against the target repository on Github. All commits must contain a “Signed-off-by” token in the commit message. This constitutes your agreement with the [PMIx Contributor’s Declaration](/contributors-declaration/).
 
 Here are several typical forms of contributions to PMIx:
 

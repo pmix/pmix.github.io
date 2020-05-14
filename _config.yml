@@ -39,6 +39,7 @@ header_pages:
   - publications.md
   - community.md
   - contribute.md
+  - meetings/index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
