@@ -50,6 +50,7 @@ header_pages:
 #
 exclude:
     - excluded-misc
+    - vendor/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

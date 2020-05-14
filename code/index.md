@@ -67,7 +67,7 @@ Developer’s Telecon
 The PMIx developers meet weekly on Thursdays at noon US Pacific to discuss
 the standard, implementation issues, and release roadmap. The meeting is
 open to all interested parties. Meeting information is available
-[here](https://www.open-mpi.org/pmix-recaptcha/).
+[here](https://recaptcha.open-mpi.org/pmix-recaptcha/).
 
 
 
