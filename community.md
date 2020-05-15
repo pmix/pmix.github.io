@@ -41,10 +41,10 @@ positions rotate amongst the Members.
 
 Current community members include (in no particular order):
 
-| Intel (Ralph Castain)*                  |  IBM (Josh Hursey)**          |  Mellanox (Artem Polyakov)  |
-| LLNL (Kathryn Mohror, Stephen Herbein)  |  LANL (Howard Pritchard)      |  ORNL (Thomas Naughton)     |
+| Intel (Ralph Castain)                  |  IBM (Josh Hursey)**          |  NVIDIA (Artem Polyakov)  |
+| LLNL (Kathryn Mohror*, Stephen Herbein)  |  LANL (Howard Pritchard)      |  ORNL (Thomas Naughton)     |
 | Stony Brook Univ (Anthony Curtis)       |  UnivTenn-Knoxville (Aurelien Bouteiller) | ARM (Dirk Schubert) |
-| Altair (Mike Karo)                      |  RogueWave (John DelSignore)  |  Sylabs (Geoffroy Vallee)   |
+| Altair (Mike Karo)                      |  Perforce (John DelSignore)  |
 
 
 \* Co-Chair (even year),
