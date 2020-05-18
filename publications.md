@@ -48,5 +48,16 @@ Presentations
 Papers
 ------
 
- - [OpenPMIx Publications](https://openpmix.github.io/publications)
+ - See also [OpenPMIx Publications](https://openpmix.github.io/publications)
+
+2018
+====
+
+ - Ralph H. Castain, David Solt, Joshua Hursey, and Aurelien Bouteiller. PMIx: Process management for exascale environments. In Parallel Computing, vol. 79, pages 9-29, Nov. 2018 \[[Paper](https://doi.org/10.1016/j.parco.2018.08.002)\]
+ - Artem Y. Polyakov, Joshua Ladd, Elena Shipunova, and Boris I. Karasev. A Scalable PMIx Database (poster) EuroMPI 2018 Conference (EuroMPI’18) \[[Abstract](https://eurompi2018.bsc.es/sites/default/files/uploaded/dstore_empi2018.pdf)\] \[[Paper](https://eurompi2018.bsc.es/sites/default/files/uploaded/Polyakov_PMIx_EuroMPI2018_poster.pdf)\]
+
+2017
+====
+
+ - Ralph H. Castain, David Solt, Joshua Hursey, and Aurelien Bouteiller. PMIx: Process management for exascale environments. In Proceedings of the 24th European MPI Users’ Group Meeting, EuroMPI ’17, pages 14:1–14:10, New York, NY, USA, 2017. ACM.
 
