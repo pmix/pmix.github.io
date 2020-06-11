@@ -7,14 +7,9 @@ layout: home
 
 ![PMIx Logo](/images/pmix-logo.png "PMIx Logo")
 
-![PMIx Launch Sequence](/images/LaunchSeqSmall.png "PMIx Launch Sequence")
+<!-- ![PMIx Launch Sequence](/images/LaunchSeqSmall.png "PMIx Launch Sequence") -->
 
 
-[Code](/code)
-======
- - PMIx Reference Implementation
- - PMIx Reference RunTime Environment
- - Developer's Telecon
 
 [PMIx Standard](/pmix-standard)
 ===============
@@ -25,6 +20,10 @@ layout: home
 [Support](/support)
 =========
  - Support issues
+
+[PMIx Implementation](https://openpmix.github.io)
+===========================================
+ - Reference implementations
  - FAQ
  - "How-to" Guides
 

@@ -13,27 +13,6 @@ If you are looking for a paper to cite, this is the one you want:
 
 Do you have a paper about PMIx or that uses PMIx in an interesting way and would like it listed here? Just let us know!
 
-Papers
-------
-
-2019
-====
-
- - Matteo Turilli, Andre Merzky, Thomas Naughton, Wael R. Elwasif, Shantenu Jha. Characterizing the Performance of Executing Many-Tasks on Summit. Third Annual Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware (IPDRM), Nov. 2019 \[[Paper](https://conferences.computer.org/sc19w/2019/#!/toc/11)\]
- - Geoffroy Vallee, Carlos Eduardo Arango Gutierrez, and Cedric Clerget. On-node resource manager for containerized HPC workloads. IEEE/ACM Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC), Nov. 2019 \[[Paper](https://www.canopie-hpc.org/wp-content/uploads/2019/12/PMIx-Canopie-HPC-2019.pdf)\]
- - Dong Zhong, Aurelien Bouteiller, Xi Luo, and George Bosilca. Runtime level failure detection and propagation. In Proceedings of the 26th European MPI Users’ Group Meeting, EuroMPI 2019, pages 9:1–9:10, New York, NY, USA, 2019. ACM. \[[Paper](https://doi.org/10.1145/3343211.3343225)\]
- - Artem Y. Polyakov, Boris I. Karasev, Joshua Hursey, Joshua Ladd, Mikhail Brinskii and Elena Shipunova. A performance analysis and optimization of PMIx-based HPC software stacks. In Proceedings of the 26th European MPI Users’ Group Meeting, EuroMPI 2019, pages 9:1–9:10, New York, NY, USA, 2019. ACM. \[[Paper](https://doi.org/10.1145/3343211.3343220)\]
-
-2018
-====
-
- - Ralph H. Castain, David Solt, Joshua Hursey, and Aurelien Bouteiller. PMIx: Process management for exascale environments. In Parallel Computing, vol. 79, pages 9-29, Nov. 2018 \[[Paper](https://doi.org/10.1016/j.parco.2018.08.002)\]
- - Artem Y. Polyakov, Joshua Ladd, Elena Shipunova, and Boris I. Karasev. A Scalable PMIx Database (poster) EuroMPI 2018 Conference (EuroMPI’18) \[[Abstract](https://eurompi2018.bsc.es/sites/default/files/uploaded/dstore_empi2018.pdf)\] \[[Paper](https://eurompi2018.bsc.es/sites/default/files/uploaded/Polyakov_PMIx_EuroMPI2018_poster.pdf)\]
-
-2017
-====
-
- - Ralph H. Castain, David Solt, Joshua Hursey, and Aurelien Bouteiller. PMIx: Process management for exascale environments. In Proceedings of the 24th European MPI Users’ Group Meeting, EuroMPI ’17, pages 14:1–14:10, New York, NY, USA, 2017. ACM.
 
 Presentations
 -------------
@@ -65,4 +44,20 @@ Presentations
 ====
  - SC15 BoF \[[PPX](https://www.slideshare.net/rcastain/sc15-pmix-birdsofafeather)\]
 
+
+Papers
+------
+
+ - See also [OpenPMIx Publications](https://openpmix.github.io/publications)
+
+2018
+====
+
+ - Ralph H. Castain, David Solt, Joshua Hursey, and Aurelien Bouteiller. PMIx: Process management for exascale environments. In Parallel Computing, vol. 79, pages 9-29, Nov. 2018 \[[Paper](https://doi.org/10.1016/j.parco.2018.08.002)\]
+ - Artem Y. Polyakov, Joshua Ladd, Elena Shipunova, and Boris I. Karasev. A Scalable PMIx Database (poster) EuroMPI 2018 Conference (EuroMPI’18) \[[Abstract](https://eurompi2018.bsc.es/sites/default/files/uploaded/dstore_empi2018.pdf)\] \[[Paper](https://eurompi2018.bsc.es/sites/default/files/uploaded/Polyakov_PMIx_EuroMPI2018_poster.pdf)\]
+
+2017
+====
+
+ - Ralph H. Castain, David Solt, Joshua Hursey, and Aurelien Bouteiller. PMIx: Process management for exascale environments. In Proceedings of the 24th European MPI Users’ Group Meeting, EuroMPI ’17, pages 14:1–14:10, New York, NY, USA, 2017. ACM.
 

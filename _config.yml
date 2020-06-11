@@ -34,11 +34,13 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - downloads.md
+  - pmix-standard/index.md
+#  - downloads.md
   - privacy.md
   - publications.md
   - community.md
   - contribute.md
+  - meetings/index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
