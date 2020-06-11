@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - pmix-standard/index.md
+  - standard/index.md
 #  - downloads.md
   - privacy.md
   - publications.md
