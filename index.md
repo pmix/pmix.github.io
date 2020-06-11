@@ -11,7 +11,7 @@ layout: home
 
 
 
-[PMIx Standard](/pmix-standard)
+[PMIx Standard](/standard)
 ===============
  - PMIx Standard (document)
  - PMIx RFCs
