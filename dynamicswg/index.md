@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamics WG Presentations
-permalink: /dynamicswg/
+permalink: /dynamicswg
 ---
 
 Presentations
