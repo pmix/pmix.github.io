@@ -26,10 +26,9 @@ The following versions of the PMIx Standard document are available:
 -   Version 3.1 (Feb 2019)
     -   [Local website](/uploads/2019/02/pmix-standard-3.1.pdf)
     -   [Repository release](https://github.com/pmix/pmix-standard/releases/tag/v3.1)
--   Version 4.0 (Draft – Release Date TBD)
-    -   A current draft of the v4.0 Standard is provided
-        [here](/uploads/2020/12/pmix-standard-4.0.pdf).
-        Formal release date remains TBD but is expected during 4Q2020.
+-   Version 4.0 (Dec 2020)
+    -   [Local website](/uploads/2020/12/pmix-standard-v4.0.pdf)
+    -   [Repository release](https://github.com/pmix/pmix-standard/releases/tag/v4.0)
 
 Prior *ad hoc* versions of the standard were embodied in the header
 files of the corresponding releases of the PMIx Reference
