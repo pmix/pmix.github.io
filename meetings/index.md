@@ -7,7 +7,7 @@ permalink: /meetings
 
 Monthly PMIx Standard Meeting
 -----------------------------
- - Second Friday of the month at 11am US Eastern / 8am US Pacific
+ - [Monthly PMIx Standard Meeting](https://github.com/pmix/pmix-standard/wiki#meeting-information)
  - [https://recaptcha.open-mpi.org/pmix-std-recaptcha/](https://recaptcha.open-mpi.org/pmix-std-recaptcha/)
  - [Meeting Notes](https://github.com/pmix/pmix-standard/wiki#regular-teleconference-meeting-notes)
 
