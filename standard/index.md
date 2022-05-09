@@ -29,6 +29,9 @@ The following versions of the PMIx Standard document are available:
 -   Version 4.0 (Dec 2020)
     -   [Local website](/uploads/2020/12/pmix-standard-v4.0.pdf)
     -   [Repository release](https://github.com/pmix/pmix-standard/releases/tag/v4.0)
+-   Version 4.1 (Oct 2021)
+    -   [Local website](/uploads/2021/10/pmix-standard-v4.1.pdf)
+    -   [Repository release](https://github.com/pmix/pmix-standard/releases/tag/v4.1)
 
 Prior *ad hoc* versions of the standard were embodied in the header
 files of the corresponding releases of the PMIx Reference
