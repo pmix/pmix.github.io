@@ -32,6 +32,9 @@ The following versions of the PMIx Standard document are available:
 -   Version 4.1 (Oct 2021)
     -   [Local website](/uploads/2021/10/pmix-standard-v4.1.pdf)
     -   [Repository release](https://github.com/pmix/pmix-standard/releases/tag/v4.1)
+-   Version 5.0 (May 2023)
+    -   [Local website](/uploads/2023/05/pmix-standard-v5.0.pdf)
+    -   [Repository release](https://github.com/pmix/pmix-standard/releases/tag/v5.0)
 
 Prior *ad hoc* versions of the standard were embodied in the header
 files of the corresponding releases of the PMIx Reference
@@ -306,6 +309,28 @@ introduced in this release.
 Development of the Standard can be followed in the v4 RFCs, as listed
 below.
 
+#### PMIx v5
+
+The fifth version of the standard, released in May 2023, focused on
+defining a common PMIx ABI by assigning specific values to defined
+constants. A Use-Cases appendix was added to give examples of how PMIx
+APIs are used in existing software. PMIx Standard v5 was the first
+version approved using the procedures defined in the [PMIx Governance
+v1.7 document](https://github.com/pmix/governance/releases/tag/v1.7).
+
+-   Client APIs
+    - PMIx\_Topology\_destruct
+-   Common APIs
+    - PMIx\_Data\_embed
+    - PMIx\_Value\_load
+    - PMIx\_Value\_unload
+    - PMIx\_Value\_xfer
+    - PMIx\_Info\_list\_start
+    - PMIx\_Info\_list\_add
+    - PMIx\_Info\_list\_xfer
+    - PMIx\_Info\_list\_convert
+    - PMIx\_Info\_list\_release
+
 Roles and Responsibilities
 --------------------------
 
@@ -349,6 +374,7 @@ PMIx RFCs
     -   [PMIx Support for Storage Systems (in progress)](/standard/RFC/pmix-support-for-storage-systems)
     -   [Support for Launching Applications under Debugger Tools (in progress)](/standard/RFC/support-for-launching-applications-under-debugger-tools)
     -   [PMIx Groups (in progress)](/standard/RFC/pmix-groups-2)
+- [v5 Pull Requests](https://github.com/pmix/pmix-standard/milestone/6?closed=1)
 
 PMIx Presentations
 ------------------
