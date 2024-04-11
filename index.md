@@ -11,22 +11,16 @@ layout: home
 What is PMIx?
 =============
 
+PMIx is an application programming interface standard that provides
+libraries and programming models with portable and well-defined access to commonly
+needed services in distributed and parallel computing systems.
+A typical example of such a service is the portable and scalable exchange of network
+addresses to establish communication channels between the processes of a parallel
+application or service.
+As such, PMIx gives distributed system software providers a better understanding of how
+programming models and libraries can interface with and use system-level services.
 
-<!-- ![PMIx Launch Sequence](/images/LaunchSeqSmall.png "PMIx Launch Sequence") -->
-
-Features and Roles
-------------------
-
-![PMIx Logo Roles](/images/pmix-logo-roles.png 'PMIx Logo Roles')
-
-Provides guidance on the expectations PMIx places on various cluster
-subsystems, including required as well as desired levels of support.
-
--   [Fabric Manager](/standard/fabric-manager-roles-and-expectations)
--   [Input/Output Forwarding for Tools](/standard/input-output-forwarding-for-tools)
--   [Tiered Storage Support](/standard/tiered-storage-support)
--   [Logging with PMIx](/standard/logging-with-pmix)
--   [PMIx Groups](/standard/pmix-groups)
+More details about [features and roles](/features).
 
 [PMIx Standard](/standard)
 ===============
