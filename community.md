@@ -10,6 +10,12 @@ of shared concerns for both issues associated with scaling of machines to
 ever increasing size, and the ability to support the growing wave of
 innovation in the HPC programming area.
 
+[PMIx Standard](/standard)
+===============
+ - PMIx Standard (document)
+ - PMIx RFCs
+ - Publications/Presentation
+
 The PMIx Standard is governed by an Administrative Steering Committee (ASC)
 comprised of representatives from a consortium of research, academic, and
 industrial organizations. The ASC shall consist of one representative from
@@ -39,13 +45,32 @@ year. There is no restriction on the number of consecutive terms a given
 individual may serve – however, it is expected and desirable that the
 positions rotate amongst the Members.
 
-Current community members include (in no particular order):
+* Co-Chairs
+  * Aurelien Bouteiller, UTK (2023-2025) (odd year)
+  * Thomas Naughton, ORNL (2024-2026) (even year)
+  * Outgoing / Former
+    * Joshua Hursey, IBM (2024) (even year*interim)
+    * Kathryn Mohror, LLNL (2022-2023) (even year*)
+    * Joshua Hursey, IBM (2021-2023) (odd year)
+    * Kathryn Mohror, LLNL (2020-2022) (even year)
+    * Joshua Hursey, IBM (2019-2021) (odd year)
+    * Ralph Castain, Intel (2018-2020) (even year)
+* Secretaries
+  * Norbert Eicker, JSC (2023-2025) (odd year)
+  * Outgoing / Former
+    * Thomas Naughton, ORNL (2022-2024) (even year)
+    * Aurelien Bouteiller, UTK (2021-2023) (odd year)
+    * Thomas Naughton, ORNL (2020-2022) (even year)
+    * Stephen Herbein, LLNL (2019-2021) (odd year)
+* Release Managers for PMIx standard v5
+  * Ken Raffenetti, ANL
+  * David Solt, IBM
+* Release Managers for PMIx standard v4
+  * Ralph Castain, Self
 
-| Intel (Ralph Castain)                  |  IBM (Josh Hursey)**          |  NVIDIA (Artem Polyakov)  |
-| LLNL (Kathryn Mohror*, Stephen Herbein)  |  LANL (Howard Pritchard)      |  ORNL (Thomas Naughton)     |
-| Stony Brook Univ (Anthony Curtis)       |  UnivTenn-Knoxville (Aurelien Bouteiller) | ARM (Dirk Schubert) |
-| Altair (Mike Karo)                      |  Perforce (John DelSignore)  |
+[PMIx Implementation](https://openpmix.github.io)
+===========================================
+ - Reference implementations
+ - FAQ
+ - "How-to" Guides
 
-
-\* Co-Chair (even year),
-\*\* Co-Chair (odd year)

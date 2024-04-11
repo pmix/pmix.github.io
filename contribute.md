@@ -10,7 +10,7 @@ We’d love it! One of the explicit goals of the PMIx community is to actively e
 
 The PMIx community has a few focus areas:
 
- - the PMIx Standard. Contributions to the Standard usually take the form of proposed modifications or requests for clarification of one or more portions of the published document. Equally welcome are proposals for new extensions to the Standard. The [PMIx Standard Governance Rules](/uploads/2020/04/pmix_governance-2020-04-15.pdf) describes rules for participation and making changes to the PMIx Standard. The governance document includes instructions for how to raise questions about the standard as well as how to propose changes to the standard.
+ - the PMIx Standard. Contributions to the Standard usually take the form of proposed modifications or requests for clarification of one or more portions of the published document. Equally welcome are proposals for new extensions to the Standard. The [PMIx Standard Governance Rules](https://github.com/pmix/governance/releases/latest) describes rules for participation and making changes to the PMIx Standard. The governance document includes instructions for how to raise questions about the standard as well as how to propose changes to the standard.
 
  - the PMIx Reference Implementations.  The latest implementation details
    can be found on the [OpenPMIx](https://openpmix.github.io) site.
