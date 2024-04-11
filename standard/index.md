@@ -4,10 +4,12 @@ title: PMIx Standard
 permalink: /standard
 ---
 
-Current PMIx Standard
----------------------
+PMIx Standard Releases
+----------------------
 
 The following versions of the PMIx Standard document are available:
+
+Direct repository link to the [latest release](https://github.com/pmix/pmix-standard/releases/latest).
 
 -   Version 5.0 (May 2023)
     -   [Local website](/uploads/2023/05/pmix-standard-v5.0.pdf)
@@ -81,7 +83,7 @@ Quick Summary of features per version
 
 This list presents a short summary of features added during different
 iterations of the PMIx standard. In recent [revisions of the standard
-document](#Current PMIx Standard), a full changelog is provided that
+document](#pmix-standard-releases), a full changelog is provided that
 contains a complete list of changes.
 
 #### PMIx v1
@@ -214,6 +216,6 @@ since the last release. Note that the PMIx Community chose not to
 release a Version 1 document due to the delay in getting the formal
 Standard document completed.
 
-You can refer to the historical [v1 RFCs standardization process manifesto](/standard/historic)
+You can refer to the [historical RFCs standardization process manifesto](/standard/historic)
 to review early standardization practices.
 

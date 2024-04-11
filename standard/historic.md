@@ -7,13 +7,13 @@ permalink: /standard/historic
 This page contains an historical overview of the RFC standardization process
 used during the early stages of the PMIx development.
 
-This process is now obsolete, please refer to the [current procedures](/standard)
+**This process is now obsolete, please refer to the [current procedures](/standard)
 for standardization.
 The rest of this page is verbatim, as it appeared when these procedures were active,
-but they are now obsolete.
+but they are now obsolete.**
 
-Historical PMIx v1 Standards RFC process
-----------------------------------------
+Historical PMIx RFC standardization process
+-------------------------------------------
 
 The PMIx developer community is currently in an early stage – thus, the
 process for *extending* the standard is relatively lightweight compared
