@@ -67,6 +67,8 @@ positions rotate amongst the Members.
   * David Solt, IBM
 * Release Managers for PMIx standard v4
   * Ralph Castain, Self
+  * Joshua Hursey, IBM
+  * Aurelien Bouteiller, UTK
 
 [PMIx Implementation](https://openpmix.github.io)
 ===========================================
