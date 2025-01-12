@@ -8,7 +8,7 @@ permalink: /meetings
 Monthly PMIx Standard Meeting
 -----------------------------
  - [Monthly PMIx Standard Meeting](https://github.com/pmix/pmix-standard/wiki#meeting-information)
- - [https://recaptcha.open-mpi.org/pmix-std-recaptcha/](https://recaptcha.open-mpi.org/pmix-std-recaptcha/)
+ - [https://pmix.org/captcha/](https://pmix.org/captcha/)
  - [Meeting Notes](https://github.com/pmix/pmix-standard/wiki#regular-teleconference-meeting-notes)
 
 
